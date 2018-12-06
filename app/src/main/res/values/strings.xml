@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">QuizGame</string>
+    <string name="quizgame">QuizGame</string>
+    <string name="Normal">ノーマル</string>
+    <string name="Hard">ハード</string>
+    <string name="Londom">ランダム</string>
+
+    <string name="Zya">ジャンル</string>
+    <string name="Sub">すべてのジャンル</string>
+    <string name="Zya1">ジャンル選択</string>
+    <string name="Sub1">すべてのジャンル</string>
+    <string name="Nomber1">s17001</string>
+    <string name="Nomber2">s17002</string>
+    <string name="Number03">s17003</string>
+    <string name="Number04">s17004</string>
+    <string name="Numbre05">s17005</string>
+    <string name="Number06">s17006</string>
+    <string name="Number07">s17007</string>
+    <string name="Number08">s17008</string>
+    <string name="Number09">s17009</string>
+    <string name="Number10">s17010</string>
+    <string name="Number11">s17011</string>
+    <string name="Number12">s17012</string>
+    <string name="No1">s17001</string>
+    <string name="No6">s17006</string>
+    <string name="No2">s17002</string>
+    <string name="No5">s17005</string>
+    <string name="No4">s17004</string>
+    <string name="No3">s17003</string>
+    <string name="No7">s17007</string>
+    <string name="No8">s17008</string>
+    <string name="No9">s17009</string>
+    <string name="No10">s17010</string>
+    <string name="No11">s17011</string>
+    <string name="No12">s17012</string>
+    <string name="textview1">TextView</string>
+    <string name="button1">Button</string>
+    <string name="button2">Button</string>
+    <string name="button3">Button</string>
+    <string name="button4">Button</string>
+</resources>
